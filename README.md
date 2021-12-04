@@ -10,26 +10,26 @@ This app was created to provide an easy way for Grazioso Salvare to find shelter
 ## Getting Started
 To begin with, make sure you have a MongoDB server running with an imported database. In this example, I import a database named “AAC”
 
-<image src = "Pictures/Picture1.png"></image>
+<br><image src = "Pictures/Picture1.png"></image><br>
 
 Next, create an admin account for your MongoDB server. In this example I created two accounts, NewAdmin and aacuser.<br>
-<image src = "Pictures/Picture2.png"></image>
-<image src = "Pictures/Picture3.png"></image>
+<br><image src = "Pictures/Picture2.png"></image><br>
+<br><image src = "Pictures/Picture3.png"></image><br>
 
 As you can see in the following image, both created users are able to access the test server.
-<image src = "Pictures/Picture4.png"></image>
+<br><image src = "Pictures/Picture4.png"></image><br>
 Next, start your MongoDB server and take note of the port (in this case port 51915).<br>
-<image src = "Pictures/Picture5.png"></image>
+<br><image src = "Pictures/Picture5.png"></image><br>
 Also take note of the desired database (in this case “AAC”) and the desired collection (in this case, animals).
 Note:(the app will only work with a database with documents formatted such as in the following screenshot)
-<image src = "Pictures/Picture6.png"></image>
+<br><image src = "Pictures/Picture6.png"></image><br>
 
-<image src = "Pictures/Picture7.png"></image>
-<image src = "Pictures/Picture8.png"></image>
+<br><image src = "Pictures/Picture7.png"></image><br>
+<br><image src = "Pictures/Picture8.png"></image><br>
 <br>Next download the crud.py file, the *GraziosoSalvareShelterDogFinder.ipynb* file, and the *Grazioso Salvare Logo.png* file and put  them in the same folder.
 
 After this, edit the *GraziosoSalvareShelterDogFinder.ipynb* file variables on lines 26-30 with your given port, database, collection, username, and password such as in the following screenshot.
-<image src = "Pictures/Picture9.png"></image>
+<br><image src = "Pictures/Picture9.png"></image><br>
  
  
 ## Installation
@@ -56,27 +56,27 @@ The usage and outputs of the radio buttons are shown below with a test database 
 
 ### *Inputs and outputs*
 *Water Rescue Button*<br>
-<image src = "Pictures/Picture10.png"></image>
-<image src = "Pictures/Picture11.png"></image>
-<image src = "Pictures/Picture12.png"></image>
+<br><image src = "Pictures/Picture10.png"></image><br>
+<br><image src = "Pictures/Picture11.png"></image><br>
+<br><image src = "Pictures/Picture12.png"></image><br>
 
 *Wilderness Rescue Button*<br>
-<image src = "Pictures/Picture13.png"></image>
+<br><image src = "Pictures/Picture13.png"></image><br>
 
-<image src = "Pictures/Picture14.png"></image>
+<br><image src = "Pictures/Picture14.png"></image><br>
 
-<image src = "Pictures/Picture15.png"></image>
+<br><image src = "Pictures/Picture15.png"></image><br>
 
 *Individual Tracking Button*<br>
-<image src = "Pictures/Picture16.png"></image>
-<image src = "Pictures/Picture17.png"></image>
-<image src = "Pictures/Picture18.png"></image>
+<br><image src = "Pictures/Picture16.png"></image><br>
+<br><image src = "Pictures/Picture17.png"></image><br>
+<br><image src = "Pictures/Picture18.png"></image><br>
 
 *Reset Button*<br>
-<image src = "Pictures/Picture19.png"></image>
+<br><image src = "Pictures/Picture19.png"></image><br>
 
-<image src = "Pictures/Picture20.png"></image>
-<image src = "Pictures/Picture21.png"></image>
+<br><image src = "Pictures/Picture20.png"></image><br>
+<br><image src = "Pictures/Picture21.png"></image><br>
 
 
 
