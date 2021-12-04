@@ -1,5 +1,5 @@
 Link to e-portfolio: <a id="raw-url" href="https://flywheel11.github.io/">Link</a><br>
-# Chris-G-CS-340
+# Chris-G-CS-340 Client/Server
 
 ## About the Project/Project Title
 The *Grazioso Salvare Shelter Dog Finder* was created so that Grazioso Salvare can find candidates for search and rescue training. Through this interface with a previous MongoDB database, the filtering of dogs based of certain criteria can be done. The filtered data is then displayed in a list of entries, a pie chart with the number of each dog breed in the filtered data, and a map showing the location of each dog in the filtered data.
