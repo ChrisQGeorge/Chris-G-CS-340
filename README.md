@@ -9,6 +9,8 @@ This app was created to provide an easy way for Grazioso Salvare to find shelter
 
 ## Getting Started
 To begin with, make sure you have a MongoDB server running with an imported database. In this example, I import a database named “AAC”
+
+<image src = "Pictures/Picture1"></image>
 [Picture1]
 Next, create an admin account for your MongoDB server. In this example I created two accounts, NewAdmin and aacuser.
 [picture2]
